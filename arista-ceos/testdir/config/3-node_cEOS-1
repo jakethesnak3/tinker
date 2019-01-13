@@ -1,0 +1,2 @@
+hostname cEOS-1
+username admin privilege 15 role network-admin secret fred
